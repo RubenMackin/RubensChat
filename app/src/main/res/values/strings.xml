@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RubensChat</string>
+
+<!--    MAIN-->
+    <string name="welcome_message">Bienvenido a RubensChat</string>
+    <string name="welcome_message_subtitle">El mejor chat del mundo mundial</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="start_chat">¡¡¡Chat!!!</string>
+
+<!--    CHAT-->
+    <string name="send_message_hint">Ingresa mensaje</string>
+    <string name="send_string">Enviar</string>
+</resources>

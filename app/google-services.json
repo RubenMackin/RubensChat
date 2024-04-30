@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267513919188",
+    "project_id": "rubenschat-d0941",
+    "storage_bucket": "rubenschat-d0941.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267513919188:android:80568d392ebb4d244a2d41",
+        "android_client_info": {
+          "package_name": "com.rubenmackin.rubenschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGy0D1q1oKYJUeVr-KmR3zJFfDFEs0RTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
